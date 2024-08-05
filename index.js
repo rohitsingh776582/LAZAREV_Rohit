@@ -305,7 +305,7 @@ gsap.to("#page10-part2 h4", {
 
         trigger: "#page10-part2",
         scroll: "#main",
-         markers: true,
+        // markers: true,
         start: "top 60%",
         end: "top 10%",
         scrub: true,

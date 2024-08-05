@@ -362,23 +362,33 @@
 
  .expertise {
 
-      /* border: 2px solid rebeccapurple;  */
+    /* border: 2px solid rebeccapurple;   */
      width: 50%;
      height: 30vh;
      padding-left: 6vw;
      padding-top: 4vw;
-     font-size: 1vw;
+    
+ }
+
+ .expertise>p{
+
+    font-size: 1.8vw;
  }
 
  .Being {
 
-     /* border: 2px solid red; */
+      /* border: 2px solid red;  */
      width: 70%;
      height: 40vh;
      padding-left: 6vw;
      margin-top: 2vw;
-     padding-top: 8vw;
+     padding-top:5vw;
 
+ }
+
+ .Being>p{
+
+    font-size: 1.8vw;
  }
 
  .Principles img {
@@ -393,13 +403,17 @@
  }
 
  .Principles {
+
      padding-top: 0vw;
      position: relative;
      padding-bottom: 1vw;
 
  }
 
+.Principles>p{
 
+      font-size:1.5vw;
+}
 
  /* page3 */
 
@@ -441,6 +455,7 @@
      text-transform: uppercase;
      opacity: 0;
      scale: 0;
+     
  }
 
  #page4-center {
@@ -952,7 +967,7 @@
 
  .page9-elem {
 
-     /* border: 2px solid goldenrod; */
+      /* border: 2px solid goldenrod;  */
      display: flex;
      justify-content: space-between;
      align-items: center;
@@ -969,6 +984,7 @@
 
      font-size: 1vw;
      z-index: 12;
+     font-size: 1.1vw;
 
  }
 
